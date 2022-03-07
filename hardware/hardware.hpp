@@ -1,0 +1,9 @@
+#include "include/battery.hpp"
+#include "include/Sim800L.h"
+#include "include/hour.hpp"
+#include "include/phone.hpp"
+#include "include/button.hpp"
+#include "include/screen_light.hpp"
+//#include "include/IP5306.h"
+#include <FS.h>
+#include <SPIFFS.h>
